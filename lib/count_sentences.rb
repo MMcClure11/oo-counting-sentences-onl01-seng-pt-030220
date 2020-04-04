@@ -28,7 +28,7 @@ def question?
   self.end_with?("?")
 end
 def exclamation?
-  self.end_with("!")
+  self.end_with?("!")
 end
 end
 
