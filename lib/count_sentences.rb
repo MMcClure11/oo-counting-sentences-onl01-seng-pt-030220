@@ -19,3 +19,25 @@
 #         #binding.pry
 #   end
 # end
+
+
+def sentence?
+  
+end
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
